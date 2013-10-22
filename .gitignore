@@ -1,4 +1,4 @@
-*.lock
+
 .eunit
 deps
 *.o
