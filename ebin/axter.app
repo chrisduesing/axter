@@ -5,6 +5,7 @@
               {modules,['Elixir.Axter.Actor','Elixir.Axter.Application',
                         'Elixir.Axter.Attribute','Elixir.Axter.DataStore',
                         'Elixir.Axter.ErrorHandler','Elixir.Axter.Supervisor',
-                        'Elixir.Axter.Util','Elixir.Axter','Elixir.User']},
+                        'Elixir.Axter.Util','Elixir.Axter',
+                        'Elixir.Relationship','Elixir.User']},
               {applications,[kernel,stdlib,elixir,crypto]},
               {mod,{'Elixir.Axter.Application',[]}}]}.
