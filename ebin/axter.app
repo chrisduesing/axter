@@ -6,6 +6,6 @@
                         'Elixir.Axter.Attribute','Elixir.Axter.DataStore',
                         'Elixir.Axter.ErrorHandler','Elixir.Axter.Supervisor',
                         'Elixir.Axter.Util','Elixir.Axter',
-                        'Elixir.Relationship','Elixir.User']},
+                        'Elixir.Relationship']},
               {applications,[kernel,stdlib,elixir,crypto]},
               {mod,{'Elixir.Axter.Application',[]}}]}.
