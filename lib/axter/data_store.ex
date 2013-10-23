@@ -5,6 +5,7 @@ defmodule Axter.DataStore do
   # API functions
   ######################
   def start_link() do
+    IO.puts "Axter.Application.start"
     :gen_server.start_link({ :local, :data_store }, __MODULE__, [], [])
   end
 
